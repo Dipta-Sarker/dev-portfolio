@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    padding:0;
+	font-family: 'Bebas Neue', cursive;
+	font-family: 'Roboto', sans-serif;
+}
+/*Navbar start*/
+.nav-bar{
+    
+    overflow: hidden;
+}
+.nav-bar ul{
+    list-style-type: none;
+    float: right;
+	margin-right:100px;
+}
+ul li{
+    float: left;
+    margin-right :25px;
+    padding: 4px;
+}
+.nav-bar ul li a{
+    text-decoration: none;
+    font-size: 16px;
+	color:black;
+	font-weight:bold;
+   
+}
+/*Navbar End */
+
+section{
+	height:500px;
+	
+}
+
+/*Top-Section-Start*/
+h1{
+	font-family: 'Bebas Neue', cursive;
+	margin:0;
+	font-size:80px;
+	font-weight:500;
+}
+h2{
+	font-family: 'Bebas Neue', cursive;
+	font-size:48px;
+}
+.name-color{
+	color:tomato;
+}
+.half-width{
+	float:left;
+	width:40%;
+	margin-left:5%;
+	padding:2%;
+	margin-top:50px;
+}
+.img-dev img{
+	width:70%;
+	display:block;
+	margin:auto;
+}
+.img-dev{
+	width:40%;
+	float:left;
+	margin-left:5%;
+	
+}
+p{
+	margin-bottom:40px;
+}
+.button {
+	text-decoration:none;
+	background-color:tomato;
+	padding:15px 40px;
+	color:white;
+	border-radius:5px;
+	
+}
+/*top middle section end */
+
+.project-section{
+	background-color:#E5E5E5;
+}
+.heading{
+	
+	text-align:center;
+}
+.card{
+	width:30%;
+	height:75%;
+	float:left;
+	text-align:center;
+	margin-left:2%;
+	background-color:white;
+	
+}
+.card img{
+	width:100%;
+	
+}
+
+/* Testimonials section start */
+
+.quotes{
+	width:50%;
+	margin:0 auto;
+	text-align:center;
+}
+.text{
+	color:gray;
+}
+
+/* Testimonials Section End */
+
+/* Chat-section Start */
+
+.chat{
+	position:relative;
+	width:70%;
+	margin:100px auto;
+	text-align:center;
+	
+}
+.work{
+	position:absolute;
+	top:34px;
+	left:36px;
+}
+.button-link{
+	position:absolute;
+	top:80px;
+	right:36px;
+}
+
+.chat img{
+width:100%;
+	
+
+}
+.chat-section{
+	height:300px;
+}
+/* Chat-section End /*
+
+/*Footer start */
+footer{
+	text-align:center;
+}
+.icon img{
+	width:40px;
+	margin-right:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
